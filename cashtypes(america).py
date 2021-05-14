@@ -1,0 +1,9 @@
+cent = 0.01
+nickel = 0.05
+dime = 0.10
+quarter = 0.25
+half_dollar = 0.50
+dollar = 1.00
+five_dollar_bill = 5.00
+ten_dollar_bill = 10.00
+benjamin = 100.00
