@@ -1,0 +1,11 @@
+usd = 1
+usdtoafghancurrency = 78.74
+usd = 642.00 Angolan_Kwanza
+usd = 101.01 Albanian Lek
+usd = 133.58 Algerian Dinar
+usd = 94.82 Argentine Peso
+usd = 520.22 Armenian Dram
+usd = 1.80 Aruban Florin
+usd = 1.31 Australian Dollar
+usd = 1.70 Azerbaijani Manat
+usd = 0.000026 Bitcoin
